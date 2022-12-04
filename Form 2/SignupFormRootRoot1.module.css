@@ -1,0 +1,187 @@
+.signupFormRootRootRoot {
+  width: 1349px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 19px 35px 11px 56px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.flexColumn {
+  width: 164px;
+  height: 544px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 43px 520px 43px 0px;
+}
+.istockphotox {
+  width: 612px;
+  height: 437px;
+  left: 72px;
+  top: 91px;
+  position: absolute;
+}
+.ultimateHrmLogo {
+  width: 164px;
+  height: 60px;
+  position: relative;
+}
+.whiteFlexColumn {
+  width: 369px;
+  height: 412px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 109px 73.5px 109px 74px;
+  background-color: #ffffff;
+  box-shadow: -1px 10px 25px 0px rgba(147, 147, 147, 0.25),
+    1px -10px 25px 0px rgba(201, 201, 201, 0.25);
+}
+.text1 {
+  margin: 0px 0px 99px 122px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Inter;
+  white-space: nowrap;
+}
+.flexRow {
+  gap: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 64px 0px;
+}
+.flexColumn1 {
+  width: 90.5px;
+  height: 21px;
+  gap: 1.5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text2 {
+  align-self: flex-start;
+  margin: 0px 0px 0px 15px;
+  color: #b3b3b3;
+  font-size: 16px;
+  font-family: Inter;
+  white-space: nowrap;
+}
+.image1 {
+  width: 91px;
+  height: 1px;
+  margin: 0px 0px 0px -0.5px;
+}
+.flexColumn2 {
+  width: 272px;
+  height: 21px;
+  gap: 1.5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.flexColumn3 {
+  width: 1px;
+  height: 19px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: stretch;
+  padding: 0px 258px 0px 13px;
+}
+.text3 {
+  left: 13.5px;
+  top: 0px;
+  position: absolute;
+  color: #b3b3b3;
+  font-size: 16px;
+  font-family: Inter;
+  white-space: nowrap;
+}
+.image3 {
+  width: 272px;
+  height: 1px;
+  margin: 0px -0.5px 0px 0px;
+}
+.flexColumn4 {
+  width: 369px;
+  height: 20px;
+  gap: 0.5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  margin: 0px 0px 68px 0px;
+}
+.flexColumn5 {
+  width: 1px;
+  height: 16px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: stretch;
+  padding: 1.5px 353px 1.5px 14.5px;
+}
+.text4 {
+  left: 15px;
+  top: 0px;
+  position: absolute;
+  color: #b3b3b3;
+  font-size: 16px;
+  font-family: Inter;
+  white-space: nowrap;
+}
+.image5 {
+  width: 370px;
+  height: 1px;
+  margin: 0px -0.5px;
+}
+.flexRow1 {
+  width: 339px;
+  gap: 69px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: center;
+  padding: 0px 15px;
+}
+.text5 {
+  color: #757575;
+  font-size: 12px;
+  font-weight: 700;
+  font-family: Inter;
+  white-space: nowrap;
+}
+.navyBlueFlexRow {
+  gap: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 15px 20px;
+  border-radius: 15px;
+  background-color: #1678cb;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.text6 {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Inter;
+  white-space: nowrap;
+}
+.arrow {
+  width: 17px;
+  height: 14.7px;
+}
