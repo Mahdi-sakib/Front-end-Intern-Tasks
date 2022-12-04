@@ -1,0 +1,204 @@
+.attendenceTableRootRootRoot {
+  width: 1202px;
+  height: 1048px;
+  gap: 79px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 49px 182px 49px 56px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.flexRow {
+  width: 904px;
+  height: 145px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0px 298px 0px 0px;
+}
+.ultimateHrmLogo {
+  width: 164px;
+  height: 60px;
+}
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: flex-end;
+}
+.navyBlueFlexColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 17px 42px 18px 55px;
+  border-radius: 5px;
+  background-color: #1678cb;
+}
+.text1 {
+  width: 383px;
+  height: 37px;
+  color: #ffffff;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: Roboto;
+}
+.flexRow1 {
+  width: 1075px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+.flexColumn1 {
+  height: 651px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0px 417px 0px 0px;
+}
+.text2 {
+  width: 38.9px;
+  align-self: flex-start;
+  margin: 0px 0px 46px 0px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto;
+}
+.text3 {
+  width: 64.8px;
+  margin: 0px 0px 64px 0px;
+  font-size: 15px;
+  font-family: Roboto;
+}
+.text4 {
+  width: 64.8px;
+  margin: 0px 0px 53px 0px;
+  font-size: 15px;
+  font-family: Roboto;
+}
+.text7 {
+  width: 63.7px;
+  align-self: flex-start;
+  margin: 0px 0px 65px 0px;
+  font-size: 15px;
+  font-family: Rubik;
+}
+.text9 {
+  width: 62.5px;
+  align-self: flex-start;
+  margin: 0px 0px 65px 0px;
+  font-size: 15px;
+  font-family: Rubik;
+}
+.text10 {
+  width: 54.2px;
+  align-self: flex-start;
+  font-size: 15px;
+  font-family: Rubik;
+}
+.flexColumn2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  margin: 0px 417px 0px 0px;
+}
+.flexColumn3 {
+  width: 124px;
+  height: 657px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.text11 {
+  margin: 0px 0px 46px 0px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.text12 {
+  margin: 0px 0px 64px 0px;
+  color: #22262f;
+  font-size: 15px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.text13 {
+  margin: 0px 0px 59px 0px;
+  color: #22262f;
+  font-size: 15px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.text16 {
+  align-self: stretch;
+  margin: 0px 0px 65px 0px;
+  color: #22262f;
+  font-size: 15px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.text19 {
+  color: #22262f;
+  font-size: 15px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.flexColumn4 {
+  height: 641px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text20 {
+  align-self: flex-end;
+  margin: 0px 2px 45px 0px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.text21 {
+  margin: 0px 0px 64px 0px;
+  font-size: 15px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.text22 {
+  align-self: flex-start;
+  margin: 0px 0px 60px 0px;
+  font-size: 15px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.text24 {
+  align-self: flex-start;
+  margin: 0px 0px 54px 0px;
+  font-size: 15px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.text25 {
+  margin: 0px 0px 65px 0px;
+  font-size: 15px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.text26 {
+  align-self: flex-start;
+  margin: 0px 0px 70px 0px;
+  font-size: 15px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.text28 {
+  font-size: 15px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
