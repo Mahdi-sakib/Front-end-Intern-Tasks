@@ -1,0 +1,118 @@
+.signupFormRootRootRoot {
+  width: 1349px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 19px 35px 11px 56px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.flexColumn {
+  width: 164px;
+  height: 544px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 43px 520px 43px 0px;
+}
+.istockphotox {
+  width: 612px;
+  height: 437px;
+  left: 72px;
+  top: 91px;
+  position: absolute;
+}
+.ultimateHrmLogo {
+  width: 164px;
+  height: 60px;
+  position: relative;
+}
+.whiteFlexColumn {
+  width: 370px;
+  height: 508px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 61px 72.5px 61px 74px;
+  background-color: #ffffff;
+  box-shadow: -1px 10px 25px 0px rgba(147, 147, 147, 0.25),
+    1px -10px 25px 0px rgba(201, 201, 201, 0.25);
+}
+.text1 {
+  margin: 0px 0px 100px 122px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Inter;
+  white-space: nowrap;
+}
+.flexColumn1 {
+  width: 369px;
+  height: 20px;
+  gap: 0.5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 64px 0px;
+}
+.flexColumn3 {
+  width: 369px;
+  height: 20px;
+  gap: 0.5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: flex-end;
+  align-items: center;
+  margin: 0px 0px 68px 0px;
+}
+.navyBlueFlexRow {
+  gap: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0px 0px 98px 113px;
+  padding: 15px 20px;
+  border-radius: 15px;
+  background-color: #1678cb;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.text4 {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Inter;
+  white-space: nowrap;
+}
+.arrow {
+  width: 17px;
+  height: 14.7px;
+}
+.flexRow {
+  gap: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  align-items: center;
+  margin: 0px 0.5px 0px 0px;
+}
+.alreadyHaveAnAccount {
+  align-self: flex-end;
+  color: #7e7e7e;
+  font-size: 12px;
+  font-family: Inter;
+  white-space: pre-wrap;
+}
+.text5 {
+  color: #1678cb;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Inter;
+  text-decoration: underline;
+  white-space: nowrap;
+}
